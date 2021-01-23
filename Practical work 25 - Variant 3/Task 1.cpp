@@ -1,3 +1,5 @@
+/*Задание 1*/
+/*Написать программу, которая вычисляет выражение: y=cos(sin(1/z)^2*/
 #include <iostream>
 #include <cmath>
 using namespace std;

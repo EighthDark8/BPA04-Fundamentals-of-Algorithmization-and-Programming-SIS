@@ -1,3 +1,5 @@
+/*Задание 2*/
+/*Создайте программу, выводящую на экран сумму четных элементов от 0 до 20*/
 #include <iostream>
 #include <cmath>
 using namespace std;
