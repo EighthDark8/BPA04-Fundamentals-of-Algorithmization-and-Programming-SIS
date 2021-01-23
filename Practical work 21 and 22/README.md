@@ -4,7 +4,7 @@ This is an open source code for home and practical assignments on the subject "F
 <hr />
 <p align="right">Created by Ivan Goldobin</p>
 <hr />
-<h2 align="center">Задачи решены с помощью цикла while с предусловием</h2>
+<h2 align="center">Задачи решены с помощью цикла while</h2>
 <hr />
 <p align="center">Задание 1</p>
 <p align="justify">Написать программу, которая считывает введённое пользователем с клавиатуры целое число (использовать переменную целого типа) и выдает на экран дисплея сумму цифр этого числа.</p>
