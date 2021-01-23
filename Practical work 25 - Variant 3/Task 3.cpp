@@ -25,6 +25,6 @@ int main()
 	}
 
     cout << "\n------------------------"<<endl;
-    cout << "\nCreated by Ivan Goldobin"<<endl;
+    cout << "\nCreated by Ivan Goldoыin"<<endl;
     cout << "\n------------------------"<<endl;
 }

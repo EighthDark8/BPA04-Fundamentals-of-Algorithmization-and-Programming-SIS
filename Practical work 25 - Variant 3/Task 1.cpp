@@ -4,10 +4,6 @@ using namespace std;
  
 int main()
 {
-	double y;
-	cout << "Enter <Y>: " <<endl; 
-	cin >> y;
-
 	double z;
 	cout << "\nEnter <Z>: " <<endl; 
 	cin >> z;
@@ -15,16 +11,7 @@ int main()
 	double decision;
 	decision = pow(cos(sin(1/z)), 2);
 
-	if (decision==y)
-	{
-		cout << "\nTrue" <<endl;
-	}
-	else
-	{
-		cout << "\nFalse" <<endl;
-	}
-
-	/*cout << "\nExpression equals: " << decision << endl;*/ //Элемент проверки работы строки 16
+	cout << "\nExpression equals: " << decision << endl;
 
     cout << "\n------------------------"<<endl;
     cout << "\nCreated by Ivan Goldobin"<<endl;
