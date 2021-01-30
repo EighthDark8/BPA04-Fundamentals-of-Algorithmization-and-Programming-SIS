@@ -15,5 +15,7 @@ This is an open source code for home and practical assignments on the subject "F
 <hr />
 <p align="center">Задание 4</p>
 <p align="justify">Пользователь системы RSA выбрал p1=11и p2=47. Какие из чисел 12, 33, 125, 513 он может выбрать для открытого ключа?</p>
+<hr />
 <p align="center">Задание 5</p>
 <p align="justify">Пользователь системы RSA, выбравший p1=17, p2=11 и a= 61, получил шифрованное сообщение m1 = 3. Дешифровать m1.</p>
+<hr />
